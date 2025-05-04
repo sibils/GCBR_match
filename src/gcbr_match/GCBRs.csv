@@ -1,0 +1,53 @@
+Name	regular expressions+
+Alliance of Genome Resources
+BacDive	bacdive:\d+
+Bio-Analytic Resource for Plant Biology
+Bgee	FBgn\d+
+BRENDA	brenda:[\d\.-]+
+Catalogue of Life	col:[23456789BCDFGHJKLMNPQRSTVWXYZ]{1,6}
+CATH	cath:[\d\.]+
+Cellosaurus	CVCL_[A-Z0-9]{4}
+ChEBI	CHEBI:\d+
+ChEMBL	CHEMBL\d+
+Clinical Interpretation of Variants in Cancer	civic.vid:\d+
+Clinical Genome Resource
+DNA Data Bank of Japan
+EcoCyc
+Ensembl	ENS[FPTG]\d{11}\.?\d+?	ensembl:\w+
+Europe PMC
+European Nucleotide Archive
+FlyBase	FB\w{2}\d{7}
+GENCODE
+Gene Ontology	GO:\d{7}
+Global Biodiversity Information Facility
+gnomAD
+Genome Sequence Archive
+GWAS Catalog	GCST\d{6,}
+GXD
+HUGO Gene Nomenclature Committee
+Human Disease Ontology Knowledgebase
+Human Protein Atlas	ENSG\d{11}
+IMEx	imex:IM-[\d-]+
+InterPro	IPR\d{6}
+IUPHAR/BPS Guide to PHARMACOLOGY
+LIPID MAPS	lipidmaps:\w+
+List of Prokaryotic names with Standing in Nomenclature
+Mouse Genome Database
+Orphadata Science
+PANTHER	PTN\d{9}
+Pharmacogenomics Knowledgebase	PA\d+
+Planteome
+PomBase	pombase:S[\.\w]+?
+Protein Data Bank	pdb:\d+
+ProteomeXchange Consortium	px:R?PXD\d+
+Rat Genome Database	rgd:\d+
+Reactome	R-[A-Z]{3}-\d+[-\.\d]+	REACT_[-\.\d]+
+Rhea	rhea:\d{5}
+Saccharomyces Genome Database	sgd:S\d+	sgd:Y\w+
+SILVA
+STRING	string:\w+
+UCSC Genome Browser
+UniProt	uniprot:\w+
+VEuPathDB
+WormBase	wb:WB[A-Z][a-z]+\d+
+Zebrafish Information Network	ZDB\-\w+\-\d+\-\d+

@@ -1,0 +1,40 @@
+[
+  {
+    "docid": "PMC2699109",
+    "identified_mentions": {
+      "names": [
+        "FlyBase",
+        "UniProt",
+        "WormBase"
+      ],
+      "accession_numbers": [
+        "FBgn0003732",
+        "FBgn0003732",
+        "GO:0003918",
+        "GO:0007059",
+        "SGD:S000005032",
+        "UniProt:O42130",
+        "UniProt:P11288",
+        "UniProt:P02880",
+        "ZDB-GENE-030131-2453",
+        "ZDB-GENE-041008-136"
+      ]
+    }
+  },
+  {
+    "docid": "PMC7852309",
+    "identified_mentions": {
+      "names": [
+        "InterPro",
+        "UniProt"
+      ],
+      "accession_numbers": [
+        "IPR000618",
+        "IPR002557",
+        "IPR031311",
+        "IPR031311",
+        "IPR000618"
+      ]
+    }
+  }
+]
