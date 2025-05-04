@@ -1,0 +1,24 @@
+[project]
+name = "gcbr-match"
+version = "0.1.0"
+description = "Code for matching Global Core Biodata Resources (GCBR) names and accession numbers in a collection of texts"
+authors = [
+    { name = "jgobeill", email = "48920425+jgobeill@users.noreply.github.com" }
+]
+dependencies = []
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/gcbr_match"]
